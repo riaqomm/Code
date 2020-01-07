@@ -1,0 +1,12 @@
+Library(twitteR)
+consumer_key ="your consumer key"
+comsumer_secret = "your consumer secret"
+access_token = "your acces token"
+access_secret = "your access secret"
+setup_twitter_oauth(consumer_key=" ", consumer_secret=" ", access_token=" ", access_secret=" ")
+fn_twitter <-searchTwitter('KOPI HITAM', n=10000, lang="id")
+fn_twitter_df <- twListToDF(fn_twitter)
+fn_twitter_df
+write.csv(fn_twitter_df,"KOPI HITAM.csv")
+write.csv
+getwd()
