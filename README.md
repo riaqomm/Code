@@ -1,6 +1,8 @@
 **Syntax Notes R**
-a. Regresi Berganda
-b. Peramalan
+
+Regresi Berganda
+
+Peramalan
 
 **Algorithma Classification in Python**
 
