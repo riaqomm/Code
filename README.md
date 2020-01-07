@@ -1,6 +1,7 @@
-#**Syntax Notes R**
+**Syntax Notes R**
 a. Regresi Berganda
 b. Peramalan
 
-#**Algorithma Classification in Python**
+**Algorithma Classification in Python**
+
 Multinomial Naive Bayes 
